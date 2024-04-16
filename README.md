@@ -1,4 +1,4 @@
-# powerbi_reporting_automation
+# Power BI Reporting Automation
 This project has been developed to send power bi reports on a daily basis for commercial leaders.
 
 
