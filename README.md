@@ -1,6 +1,9 @@
 # powerbi_reporting_automation
 This project has been developed to send power bi reports on a daily basis for commercial leaders.
 
+
+![alt text](pbi_selenium.png)
+
 # Description
 The project consists of a python script file and a .bat file to schedule the execution of the script.
 
